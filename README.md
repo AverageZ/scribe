@@ -1,0 +1,2 @@
+# scribe
+A Text Editor
